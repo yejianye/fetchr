@@ -1,3 +1,5 @@
+## Fetchr is deprecated. [cdnjs-cli](/yejianye/cdnjs-cli) is more easier to use and supports tons of Javascript/CSS library.
+
 Fetchr
 ===============
 
